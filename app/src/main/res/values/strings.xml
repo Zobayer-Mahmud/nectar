@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">nectar</string>
+    <string name="onlineGroceriet">online groceriet</string>
+    <string name="welcomeToOurStore">Welcome to our store</string>
+    <string name="getStarted">Get Started</string>
+    <string name="getYourGroceriesInOneHour">Get your groceries in as fast as one hour</string>
 </resources>
